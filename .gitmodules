@@ -1,3 +1,6 @@
 [submodule "backend"]
 	path = backend
 	url = https://github.com/Anabol1ks/digital-queue-backend.git
+[submodule "frontend"]
+	path = frontend
+	url = https://github.com/imurbestfriend/digital-queue-frontend.git
