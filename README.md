@@ -34,7 +34,7 @@ digital-queue/
 ## Требования
 
 - Go 1.23+
-- Node.js 18+
+- Node.js 20+
 - Docker & Docker Compose
 
 ## Быстрый старт
@@ -83,7 +83,7 @@ docker-compose up --build
 ```
 
 - **Backend:** http://localhost:8080
-- **Frontend:** http://localhost:3000
+- **Frontend:** http://localhost:5173
 
 ## Дополнительные материалы
 
